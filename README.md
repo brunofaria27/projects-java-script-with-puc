@@ -6,10 +6,10 @@ Este template adota a seguinte estrutura de diretórios:
 - `Calculadora JavaScript`
 - `Jogo da memória JS`
 
-## Calculadora JavaScript
+### Calculadora JavaScript
 Essa pasta arquiva todos os códigos, JS/HTML/CSS feitos para o desenvolvimento da calculadora em JavaScript.
 
-## Jogo da memória JS
+### Jogo da memória JS
 Essa pasta arquiva todos os códigos, JS/HTML/CSS feitos para o desenvolvimento do Jogo da memória em JavaScript.
 
 # Desenvolvimento
