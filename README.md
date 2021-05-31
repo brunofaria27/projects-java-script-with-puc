@@ -15,4 +15,3 @@ Essa pasta arquiva todos os códigos, JS/HTML/CSS feitos para o desenvolvimento 
 # Desenvolvimento
 - `Aluno:` Bruno Faria
 - `Professor:` Marcos Kutova
-Todos os códigos foram desenvolvidos junto com o professor, visando o aprendizado na Linguagem JavaScript.
